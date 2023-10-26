@@ -51,7 +51,7 @@ setup(
         "beautifulsoup4>=4.8,<4.12",  # should be the same as wagtail
         "django-eventtools==1.0.*",
         "django-bootstrap5==22.2",
-        "Django>=3.2,<4.2",  # should be the same as wagtail
+        "Django>=3.2,<4.3",  # should be the same as wagtail
         "geocoder==1.38.*",
         "icalendar==4.1.*",
         "wagtail>=4.0,<6",
