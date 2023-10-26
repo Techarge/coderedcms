@@ -41,6 +41,7 @@ setup(
         "Framework :: Django :: 4.1",
         "Framework :: Wagtail",
         "Framework :: Wagtail :: 4",
+        "Framework :: Wagtail :: 5",
         "Topic :: Internet :: WWW/HTTP",
         "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
         "Topic :: Internet :: WWW/HTTP :: Site Management",
@@ -53,7 +54,7 @@ setup(
         "Django>=3.2,<4.2",  # should be the same as wagtail
         "geocoder==1.38.*",
         "icalendar==4.1.*",
-        "wagtail>=4.0,<4.3",
+        "wagtail>=4.0,<6",
         "wagtail-cache>=2.2,<3",
         "wagtail-seo>=2.3,<3",
     ],
